@@ -1,0 +1,46 @@
+.container{
+    width: 200vw;
+    height: 100vh;
+    background-color:rgb(240, 218, 240);
+    
+    
+}
+.header{
+    width: 100vw;
+    height:10vh;
+    background-color: rgba(55, 54, 54, 0.408);
+    color:white;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 100px;
+    padding-bottom: 5px;
+    margin:7px 5px;
+}
+.nav ul li{
+    display: inline;
+}
+.search{
+    width: 99vw;
+    height: 8vh;
+    background-color: white;
+    color: rgb(175, 173, 173);
+    font-size: 23px;
+    margin-top: 25px;
+    margin-left: 2px;
+    border-radius: 27px;
+    padding-left: 8px;
+}
+.box1{
+    width: 100vw;
+    height: 50vh;
+    background-color: white;
+    margin-top: 20px;
+}
+.box2{
+    width: 100vw;
+    height: 50vh;
+    background-color: rgba(255, 255, 255, 0.467);
+    margin-top: 67px;
+}

@@ -1,0 +1,29 @@
+.container{
+    width:800px;
+    height: 600px;
+    border: 2px solid rgb(51, 73, 217);
+    border-radius: 10px;
+    margin-left: 20%;
+    background-color: rgb(51, 73, 217);
+}
+input{
+    height: 35px;
+    width: 250px;
+    border-radius: 4px;
+    background-color: whitesmoke;
+    font-weight: bolder;
+}
+#btn{
+    width: 280px;
+    height:40px;
+    margin-left: 10px;
+    background-color: rgb(51, 73, 217);
+    color: white;
+    font-weight: bolder;
+    border-radius: 6px;
+    border: 2px solid rgb(51, 73, 217);
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: rgb(188, 188, 237);
+}
